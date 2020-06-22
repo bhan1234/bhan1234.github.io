@@ -1,0 +1,25 @@
+body {
+    font-family: 'Mukta', sans-serif;
+    font-size: 24px;
+    text-align:center
+  }
+p {
+    margin: 35px;
+}
+.block1 {
+    margin-left: 10em;
+    margin-right: auto;
+    width: 20em
+}
+.responsive {
+    width: 300px;
+    height: auto;
+}
+.different {
+    color:lightsalmon;
+    font-size: 20px;
+    font-weight: 700;
+}
+ h1 {
+    background-color:aliceblue;
+}
