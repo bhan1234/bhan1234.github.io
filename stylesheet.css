@@ -1,15 +1,18 @@
 body {
     font-family: 'Mukta', sans-serif;
-    font-size: 24px;
+    font-size: 20px;
     text-align:center
   }
 p {
     margin: 35px;
 }
 .block1 {
-    margin-left: 50px;
-    margin-right: 50px;
-    width: 300px;
+    font-size: 20px;
+    text-align: center;
+    margin-left: 100px;
+    margin-right: 100px;
+    width: auto;
+    height: auto;
     padding: 10px
 }
 .responsive {
@@ -24,8 +27,17 @@ p {
 h1 {
     background-color:aliceblue;
 }
-
-.block2 {
+h2 {
     text-align:left;
-    min-width: 450px; max-width: 650px; text-align: left; padding: 5px; margin: 0px;
+    text-indent: 100px;
+    background-color:aliceblue;
+}
+p.block2 {
+    font-size: 20px;
+    text-align: left;
+    margin-left: 100px;
+    margin-right: 300px;
+    width: auto;
+    height: auto;
+    padding: 10px
 }
