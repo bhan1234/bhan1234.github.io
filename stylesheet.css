@@ -7,9 +7,10 @@ p {
     margin: 35px;
 }
 .block1 {
-    margin-left: 10em;
-    margin-right: auto;
-    width: 20em
+    margin-left: 50px;
+    margin-right: 50px;
+    width: 300px;
+    padding: 10px
 }
 .responsive {
     width: 300px;
