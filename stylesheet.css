@@ -7,10 +7,10 @@ p {
     margin: 35px;
 }
 .block1 {
-    font-size: 20px;
-    text-align: center;
-    margin-left: 100px;
-    margin-right: 100px;
+    font-size: 24px;
+    text-align: justify;
+    margin-left: 200px;
+    margin-right: 200px;
     width: auto;
     height: auto;
     padding: 10px
@@ -29,13 +29,13 @@ h1 {
 }
 h2 {
     text-align:left;
-    text-indent: 100px;
+    text-indent: 50px;
     background-color:aliceblue;
 }
 p.block2 {
-    font-size: 20px;
-    text-align: left;
-    margin-left: 100px;
+    font-size: 24px;
+    text-align: justify;
+    margin-left: 50px;
     margin-right: 300px;
     width: auto;
     height: auto;
