@@ -20,6 +20,11 @@ p {
     font-size: 20px;
     font-weight: 700;
 }
- h1 {
+h1 {
     background-color:aliceblue;
+}
+
+.block2 {
+    text-align:left;
+    width: 300px
 }
