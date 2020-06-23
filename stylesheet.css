@@ -7,10 +7,10 @@ p {
     margin: 35px;
 }
 .block1 {
-    font-size: 24px;
+    font-size: 20px;
     text-align: justify;
-    margin-left: 200px;
-    margin-right: 200px;
+    margin-left: 20%;
+    margin-right: 20%;
     width: auto;
     height: auto;
     padding: 10px
@@ -24,20 +24,26 @@ p {
     font-size: 20px;
     font-weight: 700;
 }
-h1 {
+h6 { 
     background-color:aliceblue;
+}
+h1 {
+    font-size: 40px;
+    color:rgb(0, 136, 255);
 }
 h2 {
+    font-size: 40px;
     text-align:left;
-    text-indent: 50px;
-    background-color:aliceblue;
+    text-indent: 75px;
+    color:rgb(0, 136, 255);
 }
 p.block2 {
-    font-size: 24px;
+    font-size: 20px;
     text-align: justify;
-    margin-left: 50px;
-    margin-right: 300px;
+    margin-left: 75px;
+    margin-right: 40%;
     width: auto;
     height: auto;
-    padding: 10px
+    padding: 0px
 }
+
